@@ -22,6 +22,11 @@ h1 {
     text-transform: uppercase;
 }
 
+.icon {
+    width: 70px;
+    height: auto;
+}
+
 .weather {
     font-size: 1.5rem;
 }
