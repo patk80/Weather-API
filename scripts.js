@@ -1,4 +1,4 @@
-var city = "Orlando";
+var city = "Newark";
 
 $.getJSON("http://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=imperial&appid=a7591cead75c9bb631115c0b4be9695c", function(data){
     // console.log(data);
