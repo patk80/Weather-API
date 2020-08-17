@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(214, 214, 214);
+    font-family: 'Architects Daughter', cursive;
+}
+
+.weather-container {
+    width: 50%;
+    margin: 100px auto;
+    text-align: center;
+    border: 2px solid #000;
+    border-radius: 50px;
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.weather {
+    font-size: 1.5rem;
+}
+
+.temperature {
+    font-size: 3.5rem;
+}
